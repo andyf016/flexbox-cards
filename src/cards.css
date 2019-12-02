@@ -54,7 +54,7 @@ html {
     .cardGroup__card {
       flex-grow: 1; /* flex-grow */
       flex-shrink: 1; /* flex-shrink */
-      flex-basis: auto;/* flex-basis */
+      flex-basis: 0;/* flex-basis */
   
       border: none;
       border-radius: 0;
@@ -67,5 +67,5 @@ html {
     .cardGroup__cardDescription {
       flex-grow: 1;/* flex-grow */
       flex-shrink: 1;/* flex-shrink */
-      flex-basis: auto;/* flex-basis */
+      flex-basis: 0;/* flex-basis */
     }
